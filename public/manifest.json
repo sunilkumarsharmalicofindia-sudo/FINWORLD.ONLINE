@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "DSA Mitra - Banker Directory & Financial Ledger",
+  "short_name": "DSA Mitra",
+  "description": "Comprehensive DSA loan channel manager, All-India banker search, cash flow & bank payout statement tracker, automated monthly reconciliation, and agent performance reports.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": ["finance", "productivity", "business"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

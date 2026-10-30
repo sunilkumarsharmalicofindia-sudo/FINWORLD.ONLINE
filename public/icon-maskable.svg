@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Full background for Android maskable crop -->
+  <rect width="512" height="512" fill="#0f172a"/>
+  <defs>
+    <linearGradient id="mGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <!-- Scaled inside 80% safe zone -->
+  <g transform="translate(51, 51) scale(0.8)">
+    <path d="M256 100 L380 170 L132 170 Z" fill="url(#mGrad)"/>
+    <rect x="156" y="195" width="34" height="135" rx="8" fill="#ffffff"/>
+    <rect x="239" y="195" width="34" height="135" rx="8" fill="#ffffff"/>
+    <rect x="322" y="195" width="34" height="135" rx="8" fill="#ffffff"/>
+    <rect x="120" y="350" width="272" height="34" rx="8" fill="url(#mGrad)"/>
+    <circle cx="256" cy="415" r="14" fill="#34d399"/>
+  </g>
+</svg>

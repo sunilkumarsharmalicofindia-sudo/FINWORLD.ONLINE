@@ -1,0 +1,8 @@
+{
+  "name": "DSA Mitra - Banker Directory & Financial Ledger",
+  "description": "Comprehensive DSA loan channel manager, All-India banker search, cash flow & bank payout statement tracker, automated monthly reconciliation, and agent performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
